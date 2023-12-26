@@ -1,6 +1,6 @@
 import tkinter as tk
 
-from PIL import Image, ImageTk #why no?
+from PIL import Image, ImageTk
 
 image = Image.open(image.jpg)
 
